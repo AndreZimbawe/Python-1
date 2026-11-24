@@ -1,5 +1,5 @@
-#En este apartado vas a ver ejercicios basicos de Python, el objetivo es
-#que aprendas a manejar las herramientas que ofrece este lenguaje de programacion
+# En este apartado vas a ver ejercicios basicos de Python, el objetivo es
+# que aprendas a manejar las herramientas que ofrece este lenguaje de programacion
 
 # Primer taller: la funcion print
 # Utiliza la funcion print() para imprimir la linea ¡Hola, Mundo! en la pantalla.
@@ -59,3 +59,57 @@ print("***   ***")
 print("  *   *")
 print("  *   *")
 print("  *****")
+
+# Taller 4. Código de producto
+# Pasa "LIB", "2026" y "007" como tres argumentos a print().
+# Usa sep= para obtener esta salida:
+# LIB-2026-007
+
+
+# Taller 5. Cuenta regresiva
+# Usa dos llamadas a print().
+# En la primera, pasa 3, 2 y 1 como argumentos separados.
+# Usa sep= y end= en esa primera llamada para obtener:
+# 3...2...1...¡Despegue!
+
+
+# Taller 6. Lista de compras
+# Usa una sola llamada a print() con una sola cadena.
+# Coloca \n donde corresponda para obtener:
+# Lista de compras
+#
+# - Pan
+# - Leche
+# - Huevos
+
+
+# Taller 7. Tres filas iguales
+# Usa una sola llamada a print().
+# Repite la cadena "* * *\n" tres veces con * y usa end="".
+# La salida debe ser:
+# * * *
+# * * *
+# * * *
+
+
+# Taller 8. Dibuja una bandera
+# Usa una sola llamada a print() con tres argumentos.
+# Forma cada fila repitiendo "#" o "-" ocho veces con *.
+# Usa sep= con \n para colocar cada fila en su propia línea.
+# Salida esperada:
+# ########
+# --------
+# ########
+
+
+# Taller 9. Insignia de Python
+# Usa exactamente tres llamadas a print().
+# Genera las filas de asteriscos multiplicando "*" por 10.
+# Usa end= en la primera llamada para dejar una línea en blanco.
+# En la segunda, pasa "★", "PYTHON" y "★" como argumentos
+# separados y usa sep= para colocar un espacio entre ellos.
+# Salida esperada:
+# **********
+#
+# ★ PYTHON ★
+# **********
