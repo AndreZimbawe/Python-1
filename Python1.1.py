@@ -1,0 +1,61 @@
+#En este apartado vas a ver ejercicios basicos de Python, el objetivo es
+#que aprendas a manejar las herramientas que ofrece este lenguaje de programacion
+
+# Primer taller: la funcion print
+# Utiliza la funcion print() para imprimir la linea ¡Hola, Mundo! en la pantalla.
+# Usa comillas dobles alrededor de la cadena.
+# Habiendo hecho eso, usa la funcion print() nuevamente, 
+# pero esta vez imprime tu nombre.
+# Elimina las comillas dobles y ejecuta tu codigo. 
+# Mira la reaccion de Python. ¿Que tipo de error arroja?
+# Luego, elimina los parentesis, 
+# vuelve a colocar las comillas dobles y ejecuta tu código nuevamente. 
+# ¿Que tipo de error arroja esta vez?
+# Experimenta todo lo que puedas. Cambia las comillas dobles a comillas simples, 
+# usa multiples funciones print() en la misma linea, y luego en diferentes lineas. 
+# Mira que pasa.
+
+# Te dejo un ejemplo de print a continuación:
+
+print("¡Hola, Mundo!")
+
+# Segundo taller: Argumentos de palabra clave
+# Modifica la primera línea de código en el editor, usando las palabras 
+# claves reservadas sep y end, para que se obtenga la salida esperada. 
+# Emplea dos funciones print() en el editor.
+
+# No cambies nada en la segunda invocación del print().
+
+# Esta es la salida esperada
+
+# Programming***Essentials***in...Python
+
+print("Programming","Essentials","in")
+print("Python")
+
+# Tercer taller: Uso de herramientas en el módulo
+
+# Intenta:
+
+# minimizar el número de invocaciones de la función print() 
+# insertando \n en las cadenas;
+# hacer que la flecha sea el doble de grande (pero mantener las proporciones)
+# duplica la flecha, colocando ambas flechas una al lado de la otra; nota: 
+# una cadena se puede multiplicar usando el siguiente truco: "string" * 2 producirá 
+# "stringstring" 
+# elimina cualquiera de las comillas y observe detenidamente la respuesta de Python; 
+# presta atención a dónde Python ve un error - 
+# ¿es este el lugar donde realmente existe el error?
+# haz lo mismo con algunos de los paréntesis;
+# cambia cualquiera de las palabras print por otra cosa, 
+# que difiera solo en mayúsculas y minúsculas (por ejemplo, Print) - qué sucede ahora?
+# reemplaza algunas de las comillas con apóstrofes; observa lo que sucede con cuidado.
+
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
